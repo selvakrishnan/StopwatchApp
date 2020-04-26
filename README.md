@@ -4,7 +4,7 @@ Simple StopwatchApp built in Flutter.
 
 # Screenshots
 
-![](Screenshots/appscreen1.png)
+![](Screenshots/appscreen1.png|width=100)
 
-![](Screenshots/appscreen2.png)
+
 
